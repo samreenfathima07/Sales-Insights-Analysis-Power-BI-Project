@@ -9,3 +9,7 @@ to be improved. Sales director wanted a simple and understandable dashboard to m
 
 Have created measures, Tracked revenue, sales numbers and quantity numbers year over year.
 Revenue breakdown by regions, different products, revenue trends, profit percent for the market using Power BI dasboard.
+
+
+This project was taught and guided by Codebasics:
+https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3utcb9nKtanhcn8jd2E0Hp9b&index=1
